@@ -1,0 +1,62 @@
+body{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande';
+    
+}
+h1{
+    color:#018ABD;
+    margin-left: 0px;
+    background-color:#DDE8F0;
+    margin:0 0 0 0;
+    height:40px;
+    width: 100%;
+    padding: 10px;
+}
+#profil img{
+    width: 30%;
+    height: 0%;
+    border-radius: 100%;
+    border: 4px solid #DDE8F0;
+    margin-left:auto;
+    margin-right:auto;
+    display: block;
+
+    
+}
+container .p{
+    text-align: center;
+
+}
+p{
+    text-align: center;
+    
+}
+button{
+    color: rgb(255, 255, 255);
+    background-color:#018ABD;
+    border: white solid;
+    height: 40px;
+    width: 170px;
+    text-align: center;
+}
+
+#skill {
+    background-color:#DDE8F0;
+    text-align: center;
+    color:#018ABD;
+}
+
+#skill img{
+    width: 30px;
+    display: inline-block;
+    padding: 0px;
+    position: relative;
+    border-radius: 0%;
+    border: 1px solid none;
+    
+}
+#skill p, #skill h2{
+    text-align: center;
+    padding-left: 10px;
+    padding-top: 0px;
+}
+
